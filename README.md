@@ -11,3 +11,7 @@
 ![Screenshot (318)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/d8a6ab42-3b62-44a5-9a12-e6e26f001741)
 ![Screenshot (319)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/99772194-1b34-4070-8dfd-c10e78417f4d)
 ![Screenshot (320)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/255264d8-391e-46ba-bcd0-de043cb565ff)
+![solidworks assembly (2)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/ca0cf992-95a1-4f1a-9969-7d1925a5d43b)
+![solidworks assembly (3)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/d9a38be8-5cee-422c-9f15-70887f036510)
+![solidworks assembly (4)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/5c54e643-bec3-4f5e-857e-0b6d1840b2d7)
+![solidworks assembly (1)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/ac3250e7-9f81-4147-9e9d-03d9de536103)
