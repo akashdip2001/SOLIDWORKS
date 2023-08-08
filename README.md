@@ -1,4 +1,4 @@
-# SOLIDWORKS
+# [SOLIDWORKS](https://youtube.com/playlist?list=PL_RecMEcs_p-rR-kDstljCglAQ4li-RGZ)
 ![Screenshot (226)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/e7fe01ec-3e60-4875-8ec9-58dc13f3e886)
 ![Screenshot (278)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/09318f59-4559-4daa-81cd-45bb0428e9fb)
 ![Screenshot (280)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/a77652a5-fb4f-4504-865f-f791ddcfbce7)
