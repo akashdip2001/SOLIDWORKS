@@ -1,4 +1,18 @@
 # [SOLIDWORKS](https://youtube.com/playlist?list=PL_RecMEcs_p-rR-kDstljCglAQ4li-RGZ)
+
+![Screenshot (71)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/cb8ee488-41b5-41da-aec2-45757a1e2809)
+
+![weldments solidworks stears](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/cbb0fcfc-6a3b-4694-bb08-b528706e07f0)
+![Weldments Tutorials solidworks](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/7150118f-9dce-4d3f-9823-4db38e20cac4)
+![weldments solidworks 03](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/254149dd-efa4-4dc4-9def-c73ccb6abc26)
+![weldments solidworks 02](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/69a40907-f0c8-4dfb-a44a-200a2b0b34dd)
+![weldments solidworks 01](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/c61d8b92-42a6-4c92-9a0e-f69a679cb1a7)
+![solidworks weldments](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/b4433ba4-1819-4194-b89b-6458477fce74)
+
+![Screenshot (64)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/5f007c5e-39b8-47c0-b8c5-0aa1d33220cc)
+![Screenshot (62)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/11c551e9-2f34-4243-8358-2e1c89e198fd)
+
+
 ![Screenshot (226)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/e7fe01ec-3e60-4875-8ec9-58dc13f3e886)
 ![Screenshot (278)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/09318f59-4559-4daa-81cd-45bb0428e9fb)
 ![Screenshot (280)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/a77652a5-fb4f-4504-865f-f791ddcfbce7)
