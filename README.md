@@ -1,5 +1,7 @@
 # [SOLIDWORKS](https://youtube.com/playlist?list=PL_RecMEcs_p-rR-kDstljCglAQ4li-RGZ)
 
+<img src="Solidworks files 2023/Assembly/Assembly_9 Radial Engine/Radial Engine.png">
+
 ![Screenshot (71)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/cb8ee488-41b5-41da-aec2-45757a1e2809)
 
 ![weldments solidworks stears](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/cbb0fcfc-6a3b-4694-bb08-b528706e07f0)
