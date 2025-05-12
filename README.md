@@ -1,5 +1,9 @@
 # [SOLIDWORKS](https://youtube.com/playlist?list=PL_RecMEcs_p-rR-kDstljCglAQ4li-RGZ)
 
+<img src="Solidworks files 2023/Assembly/Assembly/Assembly_11 Machine Vice/Screenshot (487).png">
+<img src="Solidworks files 2023/Assembly/Assembly/Assembly_11 Machine Vice/Screenshot (492).png">
+<img src="Solidworks files 2023/Assembly/Assembly/Assembly_11 Machine Vice/Screenshot (494).png">
+
 <img src="Solidworks files 2023/Assembly/Assembly_9 Radial Engine/Radial Engine.png">
 
 ![Screenshot (71)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/cb8ee488-41b5-41da-aec2-45757a1e2809)
