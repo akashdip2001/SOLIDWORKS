@@ -41,6 +41,13 @@ Date: 22/05/2025</br>
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/808ecc81-3ccf-4773-afea-d3c142412097" alt="Image 1" width="29%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/4236ece6-f3f6-4cbc-a340-0f68b721e6b8" alt="Image 2" width="65%" style="margin-right: 10px;"/>
+</p>
+
+---
+
 ## **2. Witness Statement Format (Your Friend Can Sign)**
 
 **Witness Statement**
