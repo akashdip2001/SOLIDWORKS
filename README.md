@@ -1,5 +1,39 @@
 # [SOLIDWORKS](https://youtube.com/playlist?list=PL_RecMEcs_p-rR-kDstljCglAQ4li-RGZ)
 
+<br>
+<br>
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+<p>
+ <img src="https://github.com/akashdip2001/akashdip2001/blob/main/img/Badge/SolidWorks/SOLIDWORKS Associate - CAD Design.png" width="38%" />
+ <img src="https://github.com/akashdip2001/akashdip2001/blob/main/img/Badge/SolidWorks/Certificate_C-ME4NJVYF5R_page-0001.jpg" width="55%" />
+</p></div>
+
+<br>
+<br>
+
+| AutoCAD 2D | AutoCAD 3D | SolidWorks | verify the certificate |
+| :---: | :---: | :---: | :---: |
+| [playList likn](https://youtube.com/playlist?list=PL_RecMEcs_p9D9Mw3hr-uLOXioiFdPDGd&si=AOfL6sZVMCxzmtrT) | [all videos](https://youtube.com/playlist?list=PL_RecMEcs_p9NEuljRr7hNsFiPASnJYQt&si=UPFIKc_Rp557CEnz) | [projects](https://youtube.com/playlist?list=PL_RecMEcs_p-rR-kDstljCglAQ4li-RGZ&si=n0Y5dFLoPopeffCx) | [Scan the QR](https://www.linkedin.com/posts/akashdip2001_designed-part-assembly-activity-7351309016435740672-iC6p) |
+
+
+<br>
+<br>
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+<p>
+ <img src="https://github.com/akashdip2001/akashdip2001/blob/main/img/Badge/SolidWorks/sample exam result.jpg" width="35%" />
+ <img src="https://github.com/akashdip2001/akashdip2001/blob/main/img/Badge/SolidWorks/pass result.jpg" width="62%" />
+</p></div>
+
+<br>
+<br>
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+<p>
+ <img src="https://github.com/akashdip2001/akashdip2001/blob/main/img/Badge/SolidWorks/photo_2025-07-17_00-33-34.jpg" width="48%" />
+ <img src="https://github.com/akashdip2001/akashdip2001/blob/main/img/Badge/SolidWorks/photo_2025-07-17_00-33-41.jpg" width="48%" />
+</p></div>
+
+---
+
 <img src="Solidworks files 2023/Assembly/Assembly_11 Machine Vice/Screenshot (487).png">
 <img src="Solidworks files 2023/Assembly/Assembly_11 Machine Vice/Screenshot (492).png">
 <img src="Solidworks files 2023/Assembly/Assembly_11 Machine Vice/Screenshot (494).png">
