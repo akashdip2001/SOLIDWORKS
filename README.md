@@ -69,3 +69,20 @@
 ![solidworks assembly (3)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/d9a38be8-5cee-422c-9f15-70887f036510)
 ![solidworks assembly (4)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/5c54e643-bec3-4f5e-857e-0b6d1840b2d7)
 ![solidworks assembly (1)](https://github.com/akashdip2001/SOLIDWORKS/assets/81384987/ac3250e7-9f81-4147-9e9d-03d9de536103)
+
+</br>
+</br>
+
+<img width="1920" height="1080" alt="Result 2025-07-17" src="https://github.com/user-attachments/assets/2a2769ba-2be7-4baf-af6b-4acc47cc0a54" />
+<img width="1920" height="1080" alt="Screenshot (53)-1" src="https://github.com/user-attachments/assets/9fa10555-b96b-4cb7-bda0-4cb2568822aa" />
+<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/82a4313d-21d4-493c-970a-3e2c7463cd2a" />
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+<p>
+ <img src="https://github.com/user-attachments/assets/02d61db0-f14c-43e5-a0db-191a7f9ffb98" width="35%" />
+ <img src="https://github.com/user-attachments/assets/a39d749b-75c7-4cb5-9c41-09c550816b30" width="60%" />
+</p></div>
+
+<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/5bea4cc3-5282-486b-ad66-a7b28233912b" />
+
+
