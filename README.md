@@ -15,6 +15,12 @@
 | :---: | :---: | :---: | :---: |
 | [playList likn](https://youtube.com/playlist?list=PL_RecMEcs_p9D9Mw3hr-uLOXioiFdPDGd&si=AOfL6sZVMCxzmtrT) | [all videos](https://youtube.com/playlist?list=PL_RecMEcs_p9NEuljRr7hNsFiPASnJYQt&si=UPFIKc_Rp557CEnz) | [projects](https://youtube.com/playlist?list=PL_RecMEcs_p-rR-kDstljCglAQ4li-RGZ&si=n0Y5dFLoPopeffCx) | [Scan the QR](https://www.linkedin.com/posts/akashdip2001_designed-part-assembly-activity-7351309016435740672-iC6p) |
 
+<br>
+<br>
+
+https://github.com/user-attachments/assets/162eeff9-1611-45a9-87f8-36fe72158b01
+
+> Bending Stress of Carbon Stell - `Solidworks Simulation`
 
 <br>
 <br>
