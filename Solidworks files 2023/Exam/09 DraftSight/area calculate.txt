@@ -1,0 +1,10 @@
+first create the outer lines for easy to select as obj
+
+type AREA
+a for add
+o for odj.
+
+s for subtract
+o for obj
+
+area -> a -> o -> s -> o ->
